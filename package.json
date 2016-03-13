@@ -1,8 +1,12 @@
 {
-  "name": "E-Banking project",
+  "name": "Middlewares",
   "version": "1.0.0",
-  "description": "",
+  "description": "5-tier architecture project for e-banking needs",
   "main": "Main.cs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haythemkh/E-Banking.git"
+  },
   "keywords": [
     "5-tier architecture",
     "Middleware",
@@ -15,5 +19,9 @@
     "E-Banking"
   ],
   "author": "Haythem Khiri <haythem.khiri@yahoo.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haythemkh/E-Banking.git/issues"
+  },
+  "homepage": "https://github.com/haythemkh/E-Banking.git#readme"
 }
