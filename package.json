@@ -1,0 +1,19 @@
+{
+  "name": "E-Banking project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.cs",
+  "keywords": [
+    "5-tier architecture",
+    "Middleware",
+    ".NET Remoting",
+    "WCF",
+    "Web Services",
+    "SOAP",
+    "Windows Forms",
+    "Console application",
+    "E-Banking"
+  ],
+  "author": "Haythem Khiri <haythem.khiri@yahoo.fr>",
+  "license": "MIT"
+}
