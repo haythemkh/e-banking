@@ -2,7 +2,12 @@
   "name": "Middlewares",
   "version": "1.0.0",
   "description": "5-tier architecture project for e-banking needs",
-  "main": "Main.cs",
+  "main": [
+    "Agence1/Program.cs",
+    "Agence2/Program.cs",
+    "Agence3/Program.cs",
+    "ClientWeb/Main.cs"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/haythemkh/E-Banking.git"
