@@ -1,0 +1,15 @@
+.idea
+*.swp
+*.swo
+*~
+*.log
+node_modules
+*.csproj
+*.resx
+*.sln
+*.config
+bin
+obj
+App_Data
+Properties
+Service References
