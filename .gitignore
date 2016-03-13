@@ -8,6 +8,7 @@ node_modules
 *.resx
 *.sln
 *.config
+*.suo
 bin
 obj
 App_Data
